@@ -1,1 +1,2 @@
 # grow
+* test autoGit.sh
