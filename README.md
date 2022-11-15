@@ -1,5 +1,3 @@
-`HTML` `CSS`
+`HTML` `JavaScript`
 # References
-* ![full design](./01.png)
-* ![color and fonts](./02.png)
-* [Project: Landing Page | The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)
+* [Project: Rock Paper Scissors | The Odin Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
